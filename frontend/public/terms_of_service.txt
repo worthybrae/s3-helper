@@ -1,0 +1,15 @@
+Terms of Service
+1. Acceptance of Terms
+By accessing and using this website (the "Service"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of the terms, you may not access the Service.
+2. Description of Service
+Our Service provides a user interface to navigate Amazon S3 buckets. We do not store your S3 credentials on our servers.
+3. Google Authentication
+We use Google Authentication for user login. By using our Service, you agree to comply with Google's Terms of Service.
+4. User Responsibilities
+You are responsible for maintaining the confidentiality of your Google account and for all activities that occur under your account.
+5. Limitation of Liability
+We are not responsible for any data loss or breach that occurs due to your use of our Service to navigate your S3 buckets.
+6. Changes to Terms
+We reserve the right to modify these Terms at any time. We will notify users of any changes by posting the new Terms on this page.
+7. Governing Law
+These Terms shall be governed by the laws of [Your Jurisdiction].
